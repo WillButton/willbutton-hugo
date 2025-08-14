@@ -1,0 +1,35 @@
+baseURL = 'https://willbutton.com'
+languageCode = 'en-us'
+title = 'Will Button'
+theme = 'PaperMod'
+
+[params]
+  description = "Insights on crypto tech for the over-40 crowd, fitness, and outdoors"
+  author = "Will Button"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[menu]
+  [[menu.main]]
+    name = "Crypto"
+    url = "/categories/crypto/"
+    weight = 10
+  [[menu.main]]
+    name = "Fitness"
+    url = "/categories/fitness/"
+    weight = 20
+  [[menu.main]]
+    name = "Outdoors"
+    url = "/categories/outdoors/"
+    weight = 30
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 40
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
