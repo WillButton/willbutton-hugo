@@ -3,7 +3,7 @@ date: '2025-08-13T20:26:43-06:00'
 title: 'Blockchain Over 40'
 categories: ["crypto"]
 tags: ["defi", "investing"]
-draft: true
+draft: false
 cover:
     image: "/images/checkbooks.png"
     alt: "A series of interconnected checkbooks illustrating a blockchain"
