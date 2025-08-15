@@ -1,8 +1,14 @@
-+++
-date = '2025-08-13T20:26:43-06:00'
-draft = true
-title = 'Blockchain Over 40'
-+++
+---
+date: '2025-08-13T20:26:43-06:00'
+title: 'Blockchain Over 40'
+categories: ["crypto"]
+tags: ["defi", "investing"]
+draft: true
+cover:
+    image: "/images/checkbooks.png"
+    alt: "A series of interconnected checkbooks illustrating a blockchain"
+    caption: "Your old school checkbook register is a great analogy for a blockchain"
+---
 
 # What is a blockchain?
 You've probably heard about Bitcoin, Ethereum, maybe even some ridiculous-sounding coins like FartCoin. They're all built on something called a blockchain, which sounds intimidating, but it's easier to understand than you think. Let me explain it in a way that anyone who remembers balancing a checkbook will immediately get…
@@ -18,6 +24,8 @@ There are other layers to it, of course, to provide security, fraud protection, 
 The blockchain is immutable. Once a transaction is written, it can never be changed or deleted. This provides a history of trustworthy transactions.
 
 The blockchain is distributed. Transactions are verified by multiple nodes, and data is distributed across those nodes. This decentralization makes it nearly impossible for a single entity to manipulate or hide data, reinforcing the trust and transparency of the chain. So, what does this mean in practice?
+
+![The house always wins](/images/error.png)
 
 Let's use an example to understand this better. Suppose I spent a large amount of money gambling in Vegas and now can't pay my mortgage. No problem, I go "edit" the blockchain and drop a few zeroes from my transaction with the casino: boom, now I can cover the mortgage. This means I also avoid a fight with my wife. And the casino's copy of the register still shows the original transaction, so they think they got their money, too.
 
@@ -38,6 +46,8 @@ The Bitcoin blockchain is the home of Bitcoin, the currency. Makes sense, right?
 The Ethereum chain has a currency as well, ETH. Unlike BTC, it is not fixed in supply. The Ethereum governance committee keeps an eye on supply and demand and uses regulation to keep the ETH token deflationary, such as "burning" a portion of the ETH you use in every transaction. In the crypto world, burning a token essentially means destroying it, or deleting it so it can never be used again.
 
 What really sets Ethereum apart from Bitcoin is its programmability. Not only does the Ethereum blockchain hold the ETH token, but you can also run computer code on it, just like you run the Instagram app on your phone. Let's dig into why that is valuable.
+
+![Real world applications for blockchains](/images/medical_blockchain.png)
 
 If you've ever bought a house, you paid someone to do a title search. If that title were recorded on a publicly searchable registry like the blockchain, this silly little game goes away. It's public record and anyone can verify the title along with the correct owner in seconds. The number of use cases that could benefit from transparency, immutability, and verification is pretty long. How many families have completely fallen apart in the wake of someone's passing? Imagine your spouse is traveling out of state and needs emergency medical care. With a blockchain-based system, they could instantly grant the doctor access to their complete medical history, saving precious time. Voting record fraud becomes much more difficult to change because each vote is cryptographically signed by the person holding the keys to their wallet. The list of use cases that could benefit from these features is long and promising.
 

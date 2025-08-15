@@ -5,7 +5,7 @@ date: 2025-01-15
 
 # Welcome to My Digital Corner
 
-I write about three things I'm passionate about: **crypto technology for the over-40 crowd**, **fitness**, and the **outdoors**.
+Former startup engineer who discovered that the principles of building resilient systems apply to everything—crypto portfolios, fitness routines, and backcountry adventures. Now I share what I've learned about all three.
 
 ## Latest Posts
 

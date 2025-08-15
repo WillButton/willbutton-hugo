@@ -4,6 +4,10 @@ date: 2025-01-10
 categories: ["crypto"]
 tags: ["defi", "yield-farming", "investing"]
 draft: true
+cover:
+    image: "/images/defi-yield-farming.jpg"
+    alt: "DeFi yield farming dashboard showing various protocols"
+    caption: "Modern DeFi requires the same analytical approach as traditional investing"
 ---
 
 # DeFi for Grownups: Understanding Yield Farming Without the Hype
@@ -28,5 +32,17 @@ At its core, yield farming is lending your crypto assets to earn returns. Think 
 - Understand the risks before chasing yields
 - Diversify across protocols and strategies
 - Keep detailed records for taxes
+
+![Risk assessment matrix](/images/defi-risk-matrix.png)
+*A simple risk assessment framework for evaluating DeFi protocols*
+
+## Example: Evaluating a Protocol
+
+When I evaluate a new yield farming opportunity, I use the same due diligence framework I'd apply to any investment:
+
+1. **Protocol audit history**
+2. **Total Value Locked (TVL) trends** 
+3. **Team background and transparency**
+4. **Smart contract complexity**
 
 *This is where your expertise and perspective would shine through...*

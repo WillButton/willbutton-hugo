@@ -6,7 +6,7 @@ draft: false
 
 # About Will
 
-Welcome to my corner of the internet. I write about three things I'm passionate about:
+Former startup engineer who discovered that the principles of building resilient systems apply to everything—crypto portfolios, fitness routines, and backcountry adventures. Now I share what I've learned about all three.
 
 ## Crypto Technology for the Over-40 Crowd
 The crypto space moves fast, but experience matters. I break down complex blockchain technologies, DeFi protocols, and investment strategies with the perspective that comes from decades in tech and finance.
