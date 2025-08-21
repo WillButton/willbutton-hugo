@@ -10,6 +10,8 @@ cover:
     caption: "Your old school checkbook register is a great analogy for a blockchain"
 ---
 
+_Disclaimer: This is not financial advice. It's educational material for you to use at your discretion, along with other sources to make your own financial decisions._
+
 # From Checkbooks to Chains: The Evolution of Trust
 You've probably heard about Bitcoin, Ethereum, maybe even some ridiculous-sounding coins like FartCoin. They're all built on something called a blockchain, which sounds intimidating, but it's easier to understand than you think. Let me explain it in a way that anyone who remembers balancing a checkbook will immediately get…
 
