@@ -6,7 +6,7 @@ draft: false
 
 # About Will
 
-Former startup engineer who discovered that the principles of building resilient systems apply to everything—crypto portfolios, fitness routines, and backcountry adventures. Now I share what I've learned about all three.
+Engineering Manager at Katana | 30-year tech veteran making the leap into DeFi/Web3 | Learning in public and making complex protocols accessible to everyone | Former Navy Nuclear Engineer who believes in balancing the four spinning plates: physical health, mental health, family, and financial success | 100K ultra-marathon finisher | Building sustainable high performance in tech and life
 
 ## Crypto Technology for the Over-40 Crowd
 The crypto space moves fast, but experience matters. I break down complex blockchain technologies, DeFi protocols, and investment strategies with the perspective that comes from decades in tech and finance.
