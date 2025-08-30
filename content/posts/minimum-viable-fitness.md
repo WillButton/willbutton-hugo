@@ -1,6 +1,6 @@
 ---
 date: '2025-08-30T11:27:19-06:00'
-draft: true
+draft: false
 title: 'The Minimum Viable Fitness Protocol For Busy Engineers'
 cover:
     image: "/images/mvf-header.png"
