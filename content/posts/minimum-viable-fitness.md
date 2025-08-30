@@ -2,6 +2,8 @@
 date: '2025-08-30T11:27:19-06:00'
 draft: false
 title: 'The Minimum Viable Fitness Protocol For Busy Engineers'
+categories: ["career"]
+tags: ["fitness", "health", "career"]
 cover:
     image: "/images/mvf-header.png"
     alt: "A split screen image demonstrating the struggle between career and fitness demands. Judging by the model's nipples, it's apparently quite cold in the room."
