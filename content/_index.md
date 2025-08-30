@@ -3,14 +3,28 @@ title: "Will Button"
 date: 2025-01-15
 ---
 
-# Hey.
+# The 30-Year Tech Veteran Learning DeFi
 
-Engineering Manager at Katana | 30-year tech veteran making the leap into DeFi/Web3 | Learning in public and making complex protocols accessible to everyone | Former Navy Nuclear Engineer who believes in balancing the four spinning plates: physical health, mental health, family, and financial success | 100K ultra-marathon finisher | Building sustainable high performance in tech and life
+Navy Nuclear Engineer → DevOps Expert → Engineering Manager → Now Learning Web3 in Public
+
+Making DeFi accessible while maintaining peak performance across life's four spinning plates: physical health, mental health, family, and financial success.
+
+[Follow My DeFi Journey](https://x.com/0xWillButton) [Download Four Plates Framework](#)
+
+## DeFi Learning Journey
+
+Follow along as I break down complex protocols, evaluate tokenomics, and share real insights from someone with 30 years of tech experience.
+
+## The Four Spinning Plates
+
+My framework for sustainable high performance across:
+- **Physical Health** - 100K ultra finisher while working full-time
+- **Mental Health** - Stress management from high-pressure environments  
+- **Family** - Maintaining relationships through career growth
+- **Financial** - Building wealth while taking calculated risks
 
 ## Latest Posts
 
-*Your latest posts will appear here automatically*
-
 ---
 
-**Weekly insights** on topics that matter to experienced professionals who want actionable information, not hype.
+**Weekly insights** on DeFi education, sustainable high performance, and 30 years of tech career wisdom.

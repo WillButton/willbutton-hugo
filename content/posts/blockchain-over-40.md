@@ -1,8 +1,8 @@
 ---
 date: '2025-08-13T20:26:43-06:00'
-title: 'Blockchain Demystified: A Guide for the Over-40 Crowd'
-categories: ["crypto"]
-tags: ["defi", "investing"]
+title: 'ELIWC: A Blockchain Guide for the Over-40 Crowd'
+categories: ["defi"]
+tags: ["defi", "investing", "learning-in-public"]
 draft: false
 cover:
     image: "/images/checkbooks.png"

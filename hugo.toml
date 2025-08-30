@@ -4,7 +4,7 @@ title = 'Will Button'
 theme = 'PaperMod'
 
 [params]
-  description = "Insights on crypto tech for the over-40 crowd, fitness, and outdoors"
+  description = "30-year tech veteran learning DeFi in public. Making complex protocols accessible while maintaining peak performance across life's four spinning plates."
   author = "Will Button"
 
 [taxonomies]
@@ -13,16 +13,16 @@ theme = 'PaperMod'
 
 [menu]
   [[menu.main]]
-    name = "Crypto"
-    url = "/categories/crypto/"
+    name = "DeFi Journey"
+    url = "/categories/defi/"
     weight = 10
   [[menu.main]]
-    name = "Fitness"
-    url = "/categories/fitness/"
+    name = "Four Plates"
+    url = "/categories/performance/"
     weight = 20
   [[menu.main]]
-    name = "Outdoors"
-    url = "/categories/outdoors/"
+    name = "Tech Career"
+    url = "/categories/career/"
     weight = 30
   [[menu.main]]
     name = "About"

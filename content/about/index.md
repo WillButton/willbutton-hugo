@@ -4,19 +4,34 @@ date: 2025-01-15
 draft: false
 ---
 
-# About Will
+# From Flight Decks to DeFi
 
-Engineering Manager at Katana | 30-year tech veteran making the leap into DeFi/Web3 | Learning in public and making complex protocols accessible to everyone | Former Navy Nuclear Engineer who believes in balancing the four spinning plates: physical health, mental health, family, and financial success | 100K ultra-marathon finisher | Building sustainable high performance in tech and life
+## The Journey
+- **Navy Nuclear Engineer** - Learned systems thinking under pressure on aircraft carriers
+- **30-Year Tech Evolution** - Network admin to Engineering Manager at katana
+- **Four Spinning Plates Philosophy** - Physical health, mental health, family, financial success
+- **Current Mission** - Making DeFi accessible to regular people through real experience
 
-## Crypto Technology for the Over-40 Crowd
-The crypto space moves fast, but experience matters. I break down complex blockchain technologies, DeFi protocols, and investment strategies with the perspective that comes from decades in tech and finance.
+## Why I'm Learning DeFi in Public
+After three decades in tech, I've seen every major shift from mainframes to cloud to mobile to DevOps. Web3/DeFi feels like the biggest opportunity yet - but it's buried under jargon and degen culture. 
 
-## Fitness
-Staying in shape gets more challenging and more important as we age. I share practical fitness advice, workout routines, and nutrition tips that work for busy professionals.
+I'm learning it the right way, applying 30 years of engineering discipline to evaluate protocols, assess risks, and share real insights. No hype, no get-rich-quick schemes - just systematic learning from someone who's navigated major tech transitions before.
 
-## Outdoors
-There's something restorative about spending time in nature that grounds us and provides perspective. I write about outdoor activities, gear reviews, conservation efforts, and the philosophy of connecting with the natural world.
+## The Four Spinning Plates Framework
+Peak performance isn't about choosing between career success and life balance. It's about optimizing four critical systems simultaneously:
+
+- **Physical Health** - Completed a 100K ultra-marathon while working full-time in demanding tech roles
+- **Mental Health** - Stress management techniques learned from high-pressure military and tech environments
+- **Family Relationships** - Maintaining deep connections through decades of career growth and geographic moves
+- **Financial Success** - Building wealth through calculated risks, from traditional tech careers to exploring DeFi
+
+The framework comes from recognizing that these aren't competing priorities - they're interconnected systems that reinforce each other when properly balanced.
+
+## My Approach to DeFi
+I evaluate DeFi protocols like I evaluate tech infrastructure - with systematic risk assessment, deep technical analysis, and healthy skepticism. I'm not here to shill tokens or promise easy money. I'm here to learn alongside you and share what works.
 
 ---
 
-*New articles published weekly. No fluff, just actionable insights.*
+*Engineering Manager at katana | Former Navy Nuclear Engineer | 100K Ultra Finisher*
+
+*New insights published weekly on DeFi learning, sustainable performance, and tech career wisdom.*
